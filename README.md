@@ -12,8 +12,6 @@ Hi 👋, I'm Cherif, an Embedded Systems Enthusiast 🔭. I'm currently working 
 
 ⚡ Fun fact: I might just have a designer's touch as well.
 
-📈 I've built projects like github-readme-stats and verlyjs, which have collectively received over 50 million hits and have gained 50,000 stars on GitHub.
-
 ❤️ I'm passionate about writing in TypeScript and enjoy creating exciting experiments at the type-level.
 
 💬 If you have any questions, feel free to ask me about anything.
